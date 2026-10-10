@@ -1,0 +1,13 @@
+{
+  "version": "2.0",
+  "date": "2026-10-10",
+  "timezone": "Asia/Hong_Kong",
+  "notes": [
+    "Single Bubble / Caption switch",
+    "Mobile live preview directly below active text fields",
+    "Whole-card touch targets and input/composition/change handling",
+    "77% bubble fill and size38 default; original Caption typography and alpha fades retained",
+    "r26: network-first editor navigation; exact build validation for offline installation; fresh /studio-r26 entry bypasses earlier cache routes"
+  ],
+  "build": "2.0-2026-10-10-r26"
+}

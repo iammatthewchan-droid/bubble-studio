@@ -1,0 +1,25 @@
+{
+  "id": "/bubble-studio/",
+  "name": "Bubble Studio",
+  "short_name": "Bubble Studio",
+  "description": "DeepStack bubbles and captions. Version 2.0, updated 29 September 2026.",
+  "start_url": "/bubble-studio/",
+  "scope": "/bubble-studio/",
+  "display": "standalone",
+  "background_color": "#101115",
+  "theme_color": "#101115",
+  "icons": [
+    {
+      "src": "/bubble-studio/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/bubble-studio/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    }
+  ]
+}
